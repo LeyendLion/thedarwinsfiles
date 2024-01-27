@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #8740",
+  "edition": 8740,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Silver Armor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Curly"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Glases"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

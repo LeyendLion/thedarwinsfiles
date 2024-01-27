@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #27",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/27.png",
+  "dna": "5ecbd9bc9db2ab2d2fe2ef147498b502067460ed",
+  "edition": 27,
+  "date": 1706260172820,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "CryptoPunk"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Glasses"
+    }
+  ]
+}

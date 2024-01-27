@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #5105",
+  "edition": 5105,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cave"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Suspenders"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

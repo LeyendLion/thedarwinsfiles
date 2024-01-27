@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #12",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/12.png",
+  "dna": "6323c91c92de356816a166c2786089078e92335d",
+  "edition": 12,
+  "date": 1706262853829,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Woodcutter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cool Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Monocle"
+    }
+  ]
+}

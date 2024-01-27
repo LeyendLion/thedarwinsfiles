@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #6279",
+  "edition": 6279,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Basketball shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

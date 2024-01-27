@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #1983",
+  "edition": 1983,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Tshirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Chinstrap"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Worm"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy Eyes"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

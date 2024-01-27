@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #4977",
+  "edition": 4977,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Low Purple"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Blue Sport Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Normal beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Top Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Future Glasses"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

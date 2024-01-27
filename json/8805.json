@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #8805",
+  "edition": 8805,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Caveman Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Glasses"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

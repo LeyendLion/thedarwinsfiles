@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #4319",
+  "edition": 4319,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eth Green"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Sport Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyber VR Glasses"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

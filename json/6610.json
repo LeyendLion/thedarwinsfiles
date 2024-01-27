@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #6610",
+  "edition": 6610,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange Cool"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Blue shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Caveman Cool"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

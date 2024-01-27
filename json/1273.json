@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #38",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/38.png",
+  "dna": "efec84d5af30537fc529fd00594b6c5d9013cd7e",
+  "edition": 38,
+  "date": 1706262563956,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Caveman Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glasses"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #1466",
+  "edition": 1466,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Aura"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Saber Skin"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy Eyes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saber Skull"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

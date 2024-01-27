@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #39",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/39.png",
+  "dna": "f592d37a598b566515703d83cb684f26737da6d8",
+  "edition": 39,
+  "date": 1706262853876,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Low Purple"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Demon eyes"
+    }
+  ]
+}

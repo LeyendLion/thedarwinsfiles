@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #1811",
+  "edition": 1811,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Tshirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #8857",
+  "edition": 8857,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Storm"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Woodcutter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Short Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyber VR Glasses"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #17",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/17.png",
+  "dna": "f355adc7134120f2c1370b3d1ddaa001b120843d",
+  "edition": 17,
+  "date": 1706262853837,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "King"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black  shades"
+    }
+  ]
+}

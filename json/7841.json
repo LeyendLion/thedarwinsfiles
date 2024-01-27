@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #7841",
+  "edition": 7841,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Clerk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Normal beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cool Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black  shades"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

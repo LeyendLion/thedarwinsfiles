@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #71",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/71.png",
+  "dna": "43dc461512e33d3a4aa7b90a77fd3128528aaac0",
+  "edition": 71,
+  "date": 1706263739212,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Samurai Armor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Samurai Helmet"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Glow"
+    }
+  ]
+}

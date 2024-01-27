@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #9476",
+  "edition": 9476,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Clerk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blond"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

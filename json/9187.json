@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #9187",
+  "edition": 9187,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cave"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Chinstrap"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

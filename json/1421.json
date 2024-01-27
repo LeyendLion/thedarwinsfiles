@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #42",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/42.png",
+  "dna": "248a706be83f59d238c9bdaceb96dafbfba03813",
+  "edition": 42,
+  "date": 1706262040880,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Tiger Skin"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Future Glasses"
+    }
+  ]
+}

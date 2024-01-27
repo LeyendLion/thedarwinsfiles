@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #5466",
+  "edition": 5466,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Low Purple"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Covid Mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Punk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Monocle"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

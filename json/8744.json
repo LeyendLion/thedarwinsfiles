@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #8744",
+  "edition": 8744,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Basketball shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Short Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thief"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

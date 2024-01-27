@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #16",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/16.png",
+  "dna": "8694cc894740a28a23fc359a5eb01c3f994fba75",
+  "edition": 16,
+  "date": 1706262563916,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Low Purple"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Sport Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

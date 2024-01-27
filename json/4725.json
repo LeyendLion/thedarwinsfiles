@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #4725",
+  "edition": 4725,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eth Green"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Sport Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thief"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #1645",
+  "edition": 1645,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eth Green"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Punk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Viper Shades"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #4045",
+  "edition": 4045,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro braids"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Glases"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #7002",
+  "edition": 7002,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #49",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/49.png",
+  "dna": "c73e5aab592c200ede950780b67cccd136e9ebfb",
+  "edition": 49,
+  "date": 1706263739130,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Student"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Short Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro braids"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Glases"
+    }
+  ]
+}

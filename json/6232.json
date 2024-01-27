@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #6232",
+  "edition": 6232,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eth Green"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Woodcutter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyber VR Glasses"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

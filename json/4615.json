@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #4615",
+  "edition": 4615,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "White Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Demon eyes"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

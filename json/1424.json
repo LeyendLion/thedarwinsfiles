@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #45",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/45.png",
+  "dna": "fd4bd67be1e3fbfd3908cf44613ceb4dc0c2cb2a",
+  "edition": 45,
+  "date": 1706262040886,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Low Purple"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Blue shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safari Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Monocle"
+    }
+  ]
+}

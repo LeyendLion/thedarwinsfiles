@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #47",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/47.png",
+  "dna": "3288a8479600613299f844cc608261818bdd614a",
+  "edition": 47,
+  "date": 1706263739125,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Lawyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Future Glasses"
+    }
+  ]
+}

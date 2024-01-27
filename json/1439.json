@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #12",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/12.png",
+  "dna": "188de4917b6306ce4cab6a67400fbc1f2d4a5346",
+  "edition": 12,
+  "date": 1706260172791,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Cool"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Coat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard Blonde"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Caveman Cool"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

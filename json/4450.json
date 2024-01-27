@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #4450",
+  "edition": 4450,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Desert"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Woodcutter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Normal beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyber VR Glasses"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

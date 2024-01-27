@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #5560",
+  "edition": 5560,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Cool"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glasses"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

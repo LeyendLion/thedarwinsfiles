@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #9641",
+  "edition": 9641,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Basketball shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Punk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Glases"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

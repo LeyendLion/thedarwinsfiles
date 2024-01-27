@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #2511",
+  "edition": 2511,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange Cool"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Caveman Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR Glasses"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #4670",
+  "edition": 4670,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "White Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "150"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

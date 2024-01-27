@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #10",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/10.png",
+  "dna": "8d466d4388f380a2ff5180b12d90f9bf212f0910",
+  "edition": 10,
+  "date": 1706262458179,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Blue Sport Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Short Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Glasses"
+    }
+  ]
+}

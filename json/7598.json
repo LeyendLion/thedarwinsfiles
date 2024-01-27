@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #7598",
+  "edition": 7598,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Hell"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Suspenders"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Viper Shades"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

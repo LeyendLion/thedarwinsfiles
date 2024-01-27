@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #5",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/5.png",
+  "dna": "a376060c66d012e7110deb00514d794ea3a75f96",
+  "edition": 5,
+  "date": 1706262040807,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Demon eyes"
+    }
+  ]
+}

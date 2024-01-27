@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #1842",
+  "edition": 1842,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Saber Skin"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Straight Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Future Glasses"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

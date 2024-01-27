@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #9246",
+  "edition": 9246,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Caveman Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard Blonde"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Caveman Cool"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Anonymus Mask"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

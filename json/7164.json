@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #7164",
+  "edition": 7164,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eth Green"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safari Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Anonymus Mask"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

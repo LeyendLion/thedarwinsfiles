@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #2497",
+  "edition": 2497,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Storm"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Student"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Covid Mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Glasses"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

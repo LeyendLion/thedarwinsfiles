@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #14",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/14.png",
+  "dna": "12a389636f3d1381f4cefc8024ec4ffa2af8dada",
+  "edition": 14,
+  "date": 1706262040828,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Low Purple"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Sport Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Punk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thief"
+    }
+  ]
+}

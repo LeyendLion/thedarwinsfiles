@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #9986",
+  "edition": 9986,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Sweater"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard Blonde"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Demon eyes"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

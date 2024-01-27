@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #903",
+  "edition": 903,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange Cool"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Fashion hoodie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

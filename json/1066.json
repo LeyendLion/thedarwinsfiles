@@ -1,0 +1,34 @@
+{
+  "name": "The Darwins #1066",
+  "edition": 1066,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bot"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Sweater"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cool Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Demon eyes"
+    }
+  ]
+}

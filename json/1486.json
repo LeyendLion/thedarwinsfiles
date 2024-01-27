@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #30",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/30.png",
+  "dna": "b4a41081a077f08107975f5febadda206798bf36",
+  "edition": 30,
+  "date": 1706263812608,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Aura"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Clown Cloth"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Clown Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Clown Mask"
+    }
+  ]
+}

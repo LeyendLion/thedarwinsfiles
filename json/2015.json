@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #2015",
+  "edition": 2015,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Cool"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mfpurrs mask"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

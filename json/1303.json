@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #20",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/20.png",
+  "dna": "c40eff3fe718308527653fa922eac8f98ef3dd4e",
+  "edition": 20,
+  "date": 1706262853843,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Glasses"
+    }
+  ]
+}

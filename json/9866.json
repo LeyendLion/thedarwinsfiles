@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #9866",
+  "edition": 9866,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Sport Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

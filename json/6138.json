@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #6138",
+  "edition": 6138,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange Cool"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Tshirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Short Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Worm"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Glow"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #24",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/24.png",
+  "dna": "7351f419cca6b2019083d578b508bae3b7787c0e",
+  "edition": 24,
+  "date": 1706260172815,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Short Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Caveman Cool"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thief"
+    }
+  ]
+}

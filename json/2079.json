@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #2079",
+  "edition": 2079,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Cool"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safari Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

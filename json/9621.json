@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #9621",
+  "edition": 9621,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Good Vibes"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Blue Sport Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro braids"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Monocle"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

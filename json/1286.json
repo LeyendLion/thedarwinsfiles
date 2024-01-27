@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #3",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/3.png",
+  "dna": "c2319fe1665171bc65dcfe448a8956a8b395a2ac",
+  "edition": 3,
+  "date": 1706262853808,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Straight Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    }
+  ]
+}

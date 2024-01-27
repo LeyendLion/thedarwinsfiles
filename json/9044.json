@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #9044",
+  "edition": 9044,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Cool"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Student"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thief"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

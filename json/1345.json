@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #14",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/14.png",
+  "dna": "e0105ce464fe81777126f0c6f53956131ba39bf3",
+  "edition": 14,
+  "date": 1706262458188,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyber VR Glasses"
+    }
+  ]
+}

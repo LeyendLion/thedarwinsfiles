@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #5103",
+  "edition": 5103,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rain"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Blue Puffer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "150"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

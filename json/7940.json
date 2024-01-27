@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #7940",
+  "edition": 7940,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cave"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Short Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Curly"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy Eyes"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

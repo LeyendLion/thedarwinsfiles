@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #8798",
+  "edition": 8798,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Sweater"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Chinstrap"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR Glasses"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

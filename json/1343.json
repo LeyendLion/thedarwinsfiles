@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #12",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/12.png",
+  "dna": "f7e93b27c6aa3391fd2a66206488c11c12a078c7",
+  "edition": 12,
+  "date": 1706262458184,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rain"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Clerk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black  shades"
+    }
+  ]
+}

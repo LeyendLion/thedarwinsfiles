@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #11",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/11.png",
+  "dna": "39b688a462d2deda1c430e1c337abeb07197af40",
+  "edition": 11,
+  "date": 1706263739014,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Coat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Short Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

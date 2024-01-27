@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #3262",
+  "edition": 3262,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Nature"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Normal beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Short Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "150"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

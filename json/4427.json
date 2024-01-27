@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #4427",
+  "edition": 4427,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange Cool"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Hoodie Down Cool"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safari Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy Eyes"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

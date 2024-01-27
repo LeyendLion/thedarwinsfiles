@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #9337",
+  "edition": 9337,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eth Green"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Suspenders"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Chinstrap"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Curly"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Viper Shades"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #6760",
+  "edition": 6760,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Clerk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Viper Shades"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

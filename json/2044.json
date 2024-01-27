@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #2044",
+  "edition": 2044,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Low Red"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Clown Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy Eyes"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

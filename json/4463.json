@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #4463",
+  "edition": 4463,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Red Hoodie Down"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wolf"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy Eyes"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

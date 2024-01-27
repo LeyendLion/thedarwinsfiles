@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #5",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/5.png",
+  "dna": "9d65af42518257808a86f9fad768b196abe93d65",
+  "edition": 5,
+  "date": 1706263738997,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Clerk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro braids"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black  shades"
+    }
+  ]
+}

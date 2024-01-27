@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #40",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/40.png",
+  "dna": "813eb3911cc4b5e427632141e3a6b71db0e50370",
+  "edition": 40,
+  "date": 1706262563960,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eth Green"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Sweater"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Short Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Glasses"
+    }
+  ]
+}

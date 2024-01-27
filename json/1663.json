@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #1663",
+  "edition": 1663,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Good Vibes"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black  shades"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

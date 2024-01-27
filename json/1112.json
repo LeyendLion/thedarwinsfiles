@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #46",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/46.png",
+  "dna": "3a9b81f6843952a454e2662346ea6c1b903b3ae2",
+  "edition": 46,
+  "date": 1706263739123,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Short Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glasses"
+    }
+  ]
+}

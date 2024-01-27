@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #2855",
+  "edition": 2855,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Low Red"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Ape Skin"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Glases"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

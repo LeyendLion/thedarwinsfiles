@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #4838",
+  "edition": 4838,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Good Vibes"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blond"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glasses"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

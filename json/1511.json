@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #1460",
+  "edition": 1460,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Aura"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

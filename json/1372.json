@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #41",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/41.png",
+  "dna": "6705978e2c1c69fe17da83755ca02fdad647913f",
+  "edition": 41,
+  "date": 1706262458238,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #34",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/34.png",
+  "dna": "8ccafbf4d2b6cd0f670e9ef43134ad9797d84098",
+  "edition": 34,
+  "date": 1706263739062,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Sport Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Short Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

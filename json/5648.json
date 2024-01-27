@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #5648",
+  "edition": 5648,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Blue Sport Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Short Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Straight Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Zeus Eyes"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

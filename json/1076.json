@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #10",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/10.png",
+  "dna": "0d768d96e554a6a51a1c7c30b76ccff2cae0fe66",
+  "edition": 10,
+  "date": 1706263739011,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Sweater"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Short Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Caveman Cool"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thief"
+    }
+  ]
+}

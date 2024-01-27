@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #53",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/53.png",
+  "dna": "072525b0821bc675720e7d1f33f00fcdb3309dfb",
+  "edition": 53,
+  "date": 1706263739139,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Student"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Short Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Viper Shades"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #13",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/13.png",
+  "dna": "853eb656e6d3a93b4d0362378e6eb0a75cc88c4a",
+  "edition": 13,
+  "date": 1706260172793,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    }
+  ]
+}

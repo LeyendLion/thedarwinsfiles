@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #3534",
+  "edition": 3534,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Good Vibes"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Puffer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Glow"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #16",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/16.png",
+  "dna": "06b1548863ce7496c6b38b3ffc2dd7d815d3191d",
+  "edition": 16,
+  "date": 1706262458192,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Suspenders"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Curly"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black  shades"
+    }
+  ]
+}

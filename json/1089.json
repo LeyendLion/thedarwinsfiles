@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #23",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/23.png",
+  "dna": "1af4dbd573354fc1c060f46f01c2a3c42798ed23",
+  "edition": 23,
+  "date": 1706263739039,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Clown Cloth"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Curly"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black  shades"
+    }
+  ]
+}

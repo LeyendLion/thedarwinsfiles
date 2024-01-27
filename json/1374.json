@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #43",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/43.png",
+  "dna": "807613bf78ee96957a7b83e1e656add13e7946f8",
+  "edition": 43,
+  "date": 1706262458243,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Sport Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Short Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro braids"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    }
+  ]
+}

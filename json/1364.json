@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #33",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/33.png",
+  "dna": "20cccfcf41879b4f922c41ae50a8dd583cbbde3f",
+  "edition": 33,
+  "date": 1706262458224,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Good Vibes"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Clerk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard Blonde"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Demon eyes"
+    }
+  ]
+}

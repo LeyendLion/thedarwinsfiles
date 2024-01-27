@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #30",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/30.png",
+  "dna": "62794cf306e7b890a038f72feb1d9ed1fbb74ce3",
+  "edition": 30,
+  "date": 1706262458218,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Student"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Glases"
+    }
+  ]
+}

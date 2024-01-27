@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #37",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/37.png",
+  "dna": "efe5d5937645f45cb721e2ff02c50c028e6b0e70",
+  "edition": 37,
+  "date": 1706262853872,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Clerk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cool Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy Eyes"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #3280",
+  "edition": 3280,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Desert"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Blue Puffer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Chinstrap"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Glasses"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

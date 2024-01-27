@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #48",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/48.png",
+  "dna": "23e0f5adda985413fbc3495ee63b05f0689f3509",
+  "edition": 48,
+  "date": 1706262458252,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Nature"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Sport Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Short Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Curly"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Glases"
+    }
+  ]
+}

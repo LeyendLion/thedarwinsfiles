@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #26",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/26.png",
+  "dna": "3fbadd69ab0a15502a65b75380ef9192cece6918",
+  "edition": 26,
+  "date": 1706262040851,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Low Purple"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Saber Skin"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Monocle"
+    }
+  ]
+}

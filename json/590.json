@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #590",
+  "edition": 590,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Acid Hoodie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

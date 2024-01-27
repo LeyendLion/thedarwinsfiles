@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #9",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/9.png",
+  "dna": "8e3a6bddd8e3c2f010ed4bf8ad7f0b4ed2e927d8",
+  "edition": 9,
+  "date": 1706263739009,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Short Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glasses"
+    }
+  ]
+}

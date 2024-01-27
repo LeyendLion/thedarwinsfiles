@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #4395",
+  "edition": 4395,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Low Red"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Student"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thief"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

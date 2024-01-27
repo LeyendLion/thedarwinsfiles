@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #9",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/9.png",
+  "dna": "ad5d8c0b9b9f428a59862d48aa38f4fa1b93a53f",
+  "edition": 9,
+  "date": 1706263812567,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Aura"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black  shades"
+    }
+  ]
+}

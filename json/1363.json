@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #32",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/32.png",
+  "dna": "3e520465fd70b0c2ed97f271f8e4254c1ad3926a",
+  "edition": 32,
+  "date": 1706262458222,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cave"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro braids"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Future Glasses"
+    }
+  ]
+}

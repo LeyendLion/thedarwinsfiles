@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #1891",
+  "edition": 1891,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Hell"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Student"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Short Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Demon eyes"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

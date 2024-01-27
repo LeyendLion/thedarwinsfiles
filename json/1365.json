@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #34",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/34.png",
+  "dna": "77f1825fdf1801a137d289a43039f0bd1341da12",
+  "edition": 34,
+  "date": 1706262458226,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eth Green"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Punk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    }
+  ]
+}

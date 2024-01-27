@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #23",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/23.png",
+  "dna": "67121c3e460235c60072b68df7b7649e823b4038",
+  "edition": 23,
+  "date": 1706260172812,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rain"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Sweater"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glasses"
+    }
+  ]
+}

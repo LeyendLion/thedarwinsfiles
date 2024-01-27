@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #61",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/61.png",
+  "dna": "00085357e584eeb8864ec742d3ef4ac91d16c9f8",
+  "edition": 61,
+  "date": 1706263739154,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Sweater"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Normal beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Curly"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyber VR Glasses"
+    }
+  ]
+}

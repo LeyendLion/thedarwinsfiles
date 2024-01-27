@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #2765",
+  "edition": 2765,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eth Green"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Coat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Caveman Cool"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Demon eyes"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #7",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/7.png",
+  "dna": "eabb75afc8d88916214fb00b466164c97d04aab0",
+  "edition": 7,
+  "date": 1706263739002,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Sweater"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glasses"
+    }
+  ]
+}

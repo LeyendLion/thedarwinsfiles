@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #28",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/28.png",
+  "dna": "fc85541e3479f1233d7de0f25587a48fa42687bd",
+  "edition": 28,
+  "date": 1706260172822,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Low Purple"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Monocle"
+    }
+  ]
+}

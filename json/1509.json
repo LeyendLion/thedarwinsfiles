@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #1458",
+  "edition": 1458,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Aura"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Caveman Cool"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

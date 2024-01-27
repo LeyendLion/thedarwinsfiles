@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #62",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/62.png",
+  "dna": "bad0ef8efdf248b0903af0798b31fd701f2ffc30",
+  "edition": 62,
+  "date": 1706263739157,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Suspenders"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro braids"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black  shades"
+    }
+  ]
+}

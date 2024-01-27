@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #24",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/24.png",
+  "dna": "b866cd94e64bf74bce21cc71e79260b158e8f892",
+  "edition": 24,
+  "date": 1706262040848,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Low Purple"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Basketball shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Short Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Caveman Cool"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

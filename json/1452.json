@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #25",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/25.png",
+  "dna": "9ab816e04417136de7393af2a5d78cb02ca66a05",
+  "edition": 25,
+  "date": 1706260172816,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "CryptoPunk"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "FBI"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Glow"
+    }
+  ]
+}

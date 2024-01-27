@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #41",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/41.png",
+  "dna": "4cd6c517e557c9cc89186eef53f21293edc49da2",
+  "edition": 41,
+  "date": 1706262853879,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Cool"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Punk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy Eyes"
+    }
+  ]
+}

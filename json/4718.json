@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #4718",
+  "edition": 4718,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Straight Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mfpurrs mask"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

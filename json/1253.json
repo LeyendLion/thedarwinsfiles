@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #18",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/18.png",
+  "dna": "1c3f60c2f080c20a630b96984cb83df5546abc0d",
+  "edition": 18,
+  "date": 1706262563920,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Student"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyber VR Glasses"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #8",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/8.png",
+  "dna": "144531eefdddde0d70447a67574b18a944b84167",
+  "edition": 8,
+  "date": 1706262853819,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Caveman Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro braids"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Viper Shades"
+    }
+  ]
+}

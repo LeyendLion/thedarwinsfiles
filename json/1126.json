@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #60",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/60.png",
+  "dna": "3c39cfee7017b4322098967184943cdf25b0e95f",
+  "edition": 60,
+  "date": 1706263739152,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Caveman Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Future Glasses"
+    }
+  ]
+}

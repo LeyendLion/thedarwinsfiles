@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #15",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/15.png",
+  "dna": "2d9b0df978e1aa9fada2e5cf9d664919d506594a",
+  "edition": 15,
+  "date": 1706262563914,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Coat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Curly"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    }
+  ]
+}

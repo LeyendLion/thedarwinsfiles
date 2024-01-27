@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #13",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/13.png",
+  "dna": "1850cb0caa0d41ea366d30f5b4534aaa85f33ee9",
+  "edition": 13,
+  "date": 1706262040826,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Hoodie Down Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Glases"
+    }
+  ]
+}

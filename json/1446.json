@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #19",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/19.png",
+  "dna": "04d218354978cf0ec5c02cc66d528fda46faa768",
+  "edition": 19,
+  "date": 1706260172805,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Tshirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Straight Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glasses"
+    }
+  ]
+}

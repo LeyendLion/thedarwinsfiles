@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #6816",
+  "edition": 6816,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Low Red"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Blue Sport Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "150"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #21",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/21.png",
+  "dna": "40d87a6222c803d3fbdcb2e4126000ed4f90f758",
+  "edition": 21,
+  "date": 1706263739035,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Future Glasses"
+    }
+  ]
+}

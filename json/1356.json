@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #25",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/25.png",
+  "dna": "35dccc7d885f38b6039ac056051e3755de4629f6",
+  "edition": 25,
+  "date": 1706262458209,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Hell"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Blue shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Short Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Curly"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

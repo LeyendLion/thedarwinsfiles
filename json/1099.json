@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #33",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/33.png",
+  "dna": "b84e3336958aa2c3c2c205bec4a8de4888d2f4fc",
+  "edition": 33,
+  "date": 1706263739060,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Glasses"
+    }
+  ]
+}

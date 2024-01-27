@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #17",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/17.png",
+  "dna": "e32b43ac4f480790c753082cbaa53ba717d406e3",
+  "edition": 17,
+  "date": 1706262458193,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange Cool"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Demon eyes"
+    }
+  ]
+}

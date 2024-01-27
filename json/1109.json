@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #43",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/43.png",
+  "dna": "3f4428379db65b3a66324f368c885d28da746f75",
+  "edition": 43,
+  "date": 1706263739117,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Woodcutter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Caveman Cool"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Glasses"
+    }
+  ]
+}

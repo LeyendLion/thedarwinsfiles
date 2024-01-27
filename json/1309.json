@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #26",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/26.png",
+  "dna": "86ad51ebff039c6b7dcabccb95549b6db341b553",
+  "edition": 26,
+  "date": 1706262853853,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Cool"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "White Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    }
+  ]
+}

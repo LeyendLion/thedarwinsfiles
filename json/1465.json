@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #6",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/6.png",
+  "dna": "0c1339347b0cd45fa6f934c11bdd67aa8ab3fa6e",
+  "edition": 6,
+  "date": 1706263812560,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Aura"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Basketball shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cool Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Future Glasses"
+    }
+  ]
+}

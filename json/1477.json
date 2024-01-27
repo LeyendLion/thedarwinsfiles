@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #21",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/21.png",
+  "dna": "4603c424cd1f4fe3307b5ab890a11985d001343d",
+  "edition": 21,
+  "date": 1706263812591,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Aura"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Jester"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safari Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Demon eyes"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #4",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/4.png",
+  "dna": "ab8904302b2a15355a46439d39481b525517fca4",
+  "edition": 4,
+  "date": 1706262853810,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eth Green"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Lawyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro braids"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

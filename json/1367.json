@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #36",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/36.png",
+  "dna": "bf160e082a9a2afdde7b0c01fe884ad2bcae299f",
+  "edition": 36,
+  "date": 1706262458229,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Tshirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #3",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/3.png",
+  "dna": "f4cb48eb12b839dd14395a455c51b18a06fca926",
+  "edition": 3,
+  "date": 1706262563889,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cave"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Jester"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    }
+  ]
+}

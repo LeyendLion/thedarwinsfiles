@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #6068",
+  "edition": 6068,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Sport Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mfpurrs mask"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

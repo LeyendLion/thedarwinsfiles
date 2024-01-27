@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #707",
+  "edition": 707,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Grey Hoodie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Covid Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mfpurrs mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

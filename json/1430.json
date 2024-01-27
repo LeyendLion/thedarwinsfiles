@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #3",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/3.png",
+  "dna": "1491acf0a71a319538d0a2c978aac71a0b5b2f1a",
+  "edition": 3,
+  "date": 1706260172769,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "White Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro braids"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Monocle"
+    }
+  ]
+}

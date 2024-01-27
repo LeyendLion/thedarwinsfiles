@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #31",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/31.png",
+  "dna": "6f4584fad151c95aeca7bef97bf493be5e2b6429",
+  "edition": 31,
+  "date": 1706262563943,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Low Purple"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Short Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Curly"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Viper Shades"
+    }
+  ]
+}

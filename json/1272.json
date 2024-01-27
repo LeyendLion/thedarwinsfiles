@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #37",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/37.png",
+  "dna": "36cb33c01628063aecb708fb1c9367806074887e",
+  "edition": 37,
+  "date": 1706262563954,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rain"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Clerk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cool Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Glasses"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #31",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/31.png",
+  "dna": "8621fecd0a2a53f8a2bb01a379668c74455228bc",
+  "edition": 31,
+  "date": 1706260172827,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    }
+  ]
+}

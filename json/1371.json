@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #40",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/40.png",
+  "dna": "5ecc7b8953b181d45d9610a39dfb8e866c145815",
+  "edition": 40,
+  "date": 1706262458236,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Hell"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyber VR Glasses"
+    }
+  ]
+}

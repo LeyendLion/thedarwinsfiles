@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #4",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/4.png",
+  "dna": "dbe24cd96c4473ae008badf1fffcfd733eacac5a",
+  "edition": 4,
+  "date": 1706263812555,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Aura"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Blue shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Zeus Eyes"
+    }
+  ]
+}

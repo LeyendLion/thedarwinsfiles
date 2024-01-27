@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #42",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/42.png",
+  "dna": "0cac7f2e6677fb54598784281199d95fe7939ecb",
+  "edition": 42,
+  "date": 1706262458241,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Blue shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

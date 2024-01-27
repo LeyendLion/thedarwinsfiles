@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #32",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/32.png",
+  "dna": "376effeabab6d4c683c9cfcbe7a2bdceda23f3d6",
+  "edition": 32,
+  "date": 1706262563945,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Clerk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Demon eyes"
+    }
+  ]
+}

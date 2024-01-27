@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #18",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/18.png",
+  "dna": "cfad69070b182c8454840788aea5bbef85de54c9",
+  "edition": 18,
+  "date": 1706263812586,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Aura"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Sweater"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Top Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

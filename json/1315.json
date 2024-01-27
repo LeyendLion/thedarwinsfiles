@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #32",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/32.png",
+  "dna": "be2acfd4200e5fe378721c42ea66d9c76230cb54",
+  "edition": 32,
+  "date": 1706262853864,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Straight Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyber VR Glasses"
+    }
+  ]
+}

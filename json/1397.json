@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #18",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/18.png",
+  "dna": "9a20652925e476f8c45184bd91bd69c2e5c8328e",
+  "edition": 18,
+  "date": 1706262040836,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "CryptoPunk"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Sweater"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    }
+  ]
+}

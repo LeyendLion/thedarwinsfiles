@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #29",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/29.png",
+  "dna": "977aa8ee178c9c0a33a6c5d762345d9fad0a2698",
+  "edition": 29,
+  "date": 1706262563939,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Suspenders"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyber VR Glasses"
+    }
+  ]
+}

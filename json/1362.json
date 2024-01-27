@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #31",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/31.png",
+  "dna": "840ad5185057b85de93b8ff513c027038f02221e",
+  "edition": 31,
+  "date": 1706262458220,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Basketball shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #1",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/1.png",
+  "dna": "8c123851f85a9d2ba572be9437cd88f67c17750b",
+  "edition": 1,
+  "date": 1706263812548,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Aura"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Student"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Short Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyber VR Glasses"
+    }
+  ]
+}

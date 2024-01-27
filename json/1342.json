@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #11",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/11.png",
+  "dna": "629f1a6c9ff033edd2a7417c1b8aef16a03ed543",
+  "edition": 11,
+  "date": 1706262458182,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Hell"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Coat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Punk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Future Glasses"
+    }
+  ]
+}

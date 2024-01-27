@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #27",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/27.png",
+  "dna": "b05dbac4d35b64d85911c5eb0353a2c697408721",
+  "edition": 27,
+  "date": 1706262563936,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Low Red"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "White Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Glases"
+    }
+  ]
+}

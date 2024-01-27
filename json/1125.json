@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #59",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/59.png",
+  "dna": "17eb88e982420cf2215eae361f1ce29c6888d02f",
+  "edition": 59,
+  "date": 1706263739151,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro braids"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Glasses"
+    }
+  ]
+}

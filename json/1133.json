@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #67",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/67.png",
+  "dna": "1fc553575d26f9048099867e749ec985d56c31cd",
+  "edition": 67,
+  "date": 1706263739205,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Short Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Punk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Future Glasses"
+    }
+  ]
+}

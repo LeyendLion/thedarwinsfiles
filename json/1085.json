@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #19",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/19.png",
+  "dna": "4de5a27d65caf88ccdd4768abf65f4667c930146",
+  "edition": 19,
+  "date": 1706263739031,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Woodcutter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glasses"
+    }
+  ]
+}

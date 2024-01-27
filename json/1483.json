@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #28",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/28.png",
+  "dna": "59523aa205cf2c808980dad5df6288a4ace8b3b7",
+  "edition": 28,
+  "date": 1706263812604,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Aura"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Tshirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safari Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    }
+  ]
+}

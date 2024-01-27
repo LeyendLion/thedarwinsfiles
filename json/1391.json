@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #12",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/12.png",
+  "dna": "bbb853c7f92c65a9d8bfd50f93f3a53d25e7dea5",
+  "edition": 12,
+  "date": 1706262040825,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Clerk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Punk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

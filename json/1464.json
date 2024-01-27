@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #5",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/5.png",
+  "dna": "dfd6066661ce24bc173e79594c1adce74082902d",
+  "edition": 5,
+  "date": 1706263812557,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Aura"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Lawyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

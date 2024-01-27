@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #9",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/9.png",
+  "dna": "3f16dfb7073805455eaf3d3fe4bb2c8a5be96b33",
+  "edition": 9,
+  "date": 1706262458177,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Chinstrap"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cool Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glasses"
+    }
+  ]
+}

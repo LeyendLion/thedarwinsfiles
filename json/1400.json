@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #21",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/21.png",
+  "dna": "383d68642fb20f59db503e6258127c8f4837e19d",
+  "edition": 21,
+  "date": 1706262040841,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eth Green"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Lawyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Caveman Cool"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

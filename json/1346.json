@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #15",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/15.png",
+  "dna": "d9a60748973097ade16cf7d4701b99ee82925535",
+  "edition": 15,
+  "date": 1706262458190,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Cool"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Coat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Short Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black  shades"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #22",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/22.png",
+  "dna": "cf0776c69c9b0b9948a9098ec93455e8d45234f9",
+  "edition": 22,
+  "date": 1706263739037,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Short Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

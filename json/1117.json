@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #51",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/51.png",
+  "dna": "1bce792f5d995221785d314c32f6f3c58297617b",
+  "edition": 51,
+  "date": 1706263739135,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Sport Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

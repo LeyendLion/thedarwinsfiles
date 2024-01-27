@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #14",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/14.png",
+  "dna": "e457ea800e8b61463e0bf7b18b02a7134015fb8c",
+  "edition": 14,
+  "date": 1706260172795,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Hell"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Monocle"
+    }
+  ]
+}

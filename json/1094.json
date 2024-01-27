@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #28",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/28.png",
+  "dna": "0a8acf4323bdef51e9d4564047dbfe106b27aed2",
+  "edition": 28,
+  "date": 1706263739049,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Blue Puffer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Punk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thief"
+    }
+  ]
+}

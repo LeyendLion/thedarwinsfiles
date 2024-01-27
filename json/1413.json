@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #34",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/34.png",
+  "dna": "fa7fe32bca732a044b29c85b01189d563ef99525",
+  "edition": 34,
+  "date": 1706262040866,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "CryptoPunk"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Basketball shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Demon eyes"
+    }
+  ]
+}

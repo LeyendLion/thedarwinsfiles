@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #6",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/6.png",
+  "dna": "7d608eea7888b48fbbc374f23d52a12b56b395da",
+  "edition": 6,
+  "date": 1706262040809,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Woodcutter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

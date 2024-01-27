@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #36",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/36.png",
+  "dna": "4fe2505d3924a83d580cadde9c373d191a5ef241",
+  "edition": 36,
+  "date": 1706262040869,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eth Green"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Sweater"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

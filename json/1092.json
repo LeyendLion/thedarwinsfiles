@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #26",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/26.png",
+  "dna": "3ad4899f7e906b8c5fa12bd0e5e1c9566ac0eeca",
+  "edition": 26,
+  "date": 1706263739046,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Clerk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Loose Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

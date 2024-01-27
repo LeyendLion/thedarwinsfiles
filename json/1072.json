@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #6",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/6.png",
+  "dna": "576ad2f2a4c9b4ec2abfa1edd410001840b5effc",
+  "edition": 6,
+  "date": 1706263738999,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Blue Sport Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Punk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Glasses"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #44",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/44.png",
+  "dna": "ccc2f90584b1b05b5d596d061b9ec43ac2f33147",
+  "edition": 44,
+  "date": 1706262040885,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Clerk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Straight Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black  shades"
+    }
+  ]
+}

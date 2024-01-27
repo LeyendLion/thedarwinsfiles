@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #20",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/20.png",
+  "dna": "df8767a1c5793cc9770f45e8312ad467876e25d8",
+  "edition": 20,
+  "date": 1706262040840,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Basketball shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Glasses"
+    }
+  ]
+}

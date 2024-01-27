@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #22",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/22.png",
+  "dna": "73eab04ab2c83483aec99f7ecec810c61776b706",
+  "edition": 22,
+  "date": 1706262040843,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eth Green"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Blue shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Curly"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Monocle"
+    }
+  ]
+}

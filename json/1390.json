@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #11",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/11.png",
+  "dna": "a01f83c057d88d4acb4d39ccef26126e9ef91774",
+  "edition": 11,
+  "date": 1706262040823,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Aura"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Clerk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

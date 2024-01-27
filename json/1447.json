@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #20",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/20.png",
+  "dna": "5bcecc9a32378a944313c930c05b3e271c5d1a50",
+  "edition": 20,
+  "date": 1706260172807,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eth Green"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Tshirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Punk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Glasses"
+    }
+  ]
+}

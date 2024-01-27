@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #23",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/23.png",
+  "dna": "cd3220e5a6611763159cab07592b9a3fd053cc87",
+  "edition": 23,
+  "date": 1706262040846,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rain"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "White Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Short Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    }
+  ]
+}

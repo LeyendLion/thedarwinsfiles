@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #1",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/1.png",
+  "dna": "6b90c7e028e10ba73a6375e4e031495c3e75778d",
+  "edition": 1,
+  "date": 1706262563884,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Short Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Demon eyes"
+    }
+  ]
+}

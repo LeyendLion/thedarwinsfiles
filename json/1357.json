@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #26",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/26.png",
+  "dna": "ee427bf5a5f747ddeae82b0165fa5975ed386667",
+  "edition": 26,
+  "date": 1706262458211,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Cool"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "FBI"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black  shades"
+    }
+  ]
+}

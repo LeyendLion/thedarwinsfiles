@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #28",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/28.png",
+  "dna": "c11bd6965681db10bb6a93d1c5bc13e3c2f725a2",
+  "edition": 28,
+  "date": 1706262458214,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Blue Sport Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safari Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Glasses"
+    }
+  ]
+}

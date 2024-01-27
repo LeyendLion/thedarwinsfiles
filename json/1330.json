@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #47",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/47.png",
+  "dna": "3d0be9ef6fbfa90e095b19e00fca53f79c5afb57",
+  "edition": 47,
+  "date": 1706262853891,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Blue Sport Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safari Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black  shades"
+    }
+  ]
+}

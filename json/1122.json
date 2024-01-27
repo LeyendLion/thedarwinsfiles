@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #56",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/56.png",
+  "dna": "197847cea3831c0e3275cdb25aef8841892fb19f",
+  "edition": 56,
+  "date": 1706263739144,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Samurai Armor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safari Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Demon eyes"
+    }
+  ]
+}

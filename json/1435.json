@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #8",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/8.png",
+  "dna": "03b18bcc4fe8ffd70f549559fc5dbac79ddb0aef",
+  "edition": 8,
+  "date": 1706260172782,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eth Green"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "White Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro braids"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

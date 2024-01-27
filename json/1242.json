@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #7",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/7.png",
+  "dna": "ab0deee1f3707928186f55f656b7c1626f273ae4",
+  "edition": 7,
+  "date": 1706262563897,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Nature"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cool Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Monocle"
+    }
+  ]
+}

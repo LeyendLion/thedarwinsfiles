@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #17",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/17.png",
+  "dna": "c2aa5fba511f0ff2248642e36cd505d92d0570c7",
+  "edition": 17,
+  "date": 1706263812583,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Aura"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Sport Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

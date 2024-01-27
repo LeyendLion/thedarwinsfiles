@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #45",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/45.png",
+  "dna": "0d3301765d21518e03e5c00055e6391a9004fe91",
+  "edition": 45,
+  "date": 1706262853887,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

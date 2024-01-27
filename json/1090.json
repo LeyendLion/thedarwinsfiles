@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #24",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/24.png",
+  "dna": "8e7f5ef9e0163ac34348cd29b851baa4a33adbeb",
+  "edition": 24,
+  "date": 1706263739042,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Punk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thief"
+    }
+  ]
+}

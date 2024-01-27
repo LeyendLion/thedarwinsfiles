@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #4",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/4.png",
+  "dna": "af60ca73761c07e98015fa7c19e4102517825c86",
+  "edition": 4,
+  "date": 1706262040805,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Clerk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Monocle"
+    }
+  ]
+}

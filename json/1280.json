@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #45",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/45.png",
+  "dna": "8130ce182f9f6e5940592e0f1bf2a290945ca3a9",
+  "edition": 45,
+  "date": 1706262563970,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Storm"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Kid Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Glases"
+    }
+  ]
+}

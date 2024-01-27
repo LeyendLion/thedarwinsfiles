@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #41",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/41.png",
+  "dna": "bb7c43345a9d504ee64896185984e452cbfcd6c8",
+  "edition": 41,
+  "date": 1706262563961,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Low Purple"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Suspenders"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Glases"
+    }
+  ]
+}

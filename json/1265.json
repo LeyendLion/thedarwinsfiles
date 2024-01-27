@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #30",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/30.png",
+  "dna": "3224c61fef9de29b6e411b4e05e6bf422f10f029",
+  "edition": 30,
+  "date": 1706262563941,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Sweater"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Curly"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Glases"
+    }
+  ]
+}

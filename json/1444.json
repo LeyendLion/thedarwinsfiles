@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #17",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/17.png",
+  "dna": "2ce0771c3c437ac46b4d87e46b0db3fe1844b73d",
+  "edition": 17,
+  "date": 1706260172801,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Low Red"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "White Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

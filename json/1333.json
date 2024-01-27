@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #2",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/2.png",
+  "dna": "8c06ef3b5e1e94deead258eaf3713cf02f0312d6",
+  "edition": 2,
+  "date": 1706262458160,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eth Green"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Suspenders"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Short Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Straight Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

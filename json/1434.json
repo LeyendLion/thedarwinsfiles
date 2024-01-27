@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #7",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/7.png",
+  "dna": "99cd4ab4ed83d1097cfc4cacb18a5d2a9b0b4365",
+  "edition": 7,
+  "date": 1706260172779,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Coat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safari Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Future Glasses"
+    }
+  ]
+}

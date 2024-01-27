@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #19",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/19.png",
+  "dna": "e957c5cae744153c89faf96683119a320e945741",
+  "edition": 19,
+  "date": 1706263812587,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Aura"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Suspenders"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Short Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Caveman Cool"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Future Glasses"
+    }
+  ]
+}

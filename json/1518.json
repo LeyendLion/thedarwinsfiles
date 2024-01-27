@@ -1,0 +1,35 @@
+{
+  "name": "The Darwins #1466",
+  "edition": 1466,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Aura"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Caveman Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black  shades"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro braids"
+    }
+  ],
+  "Compiled_by": "Ryo"
+}

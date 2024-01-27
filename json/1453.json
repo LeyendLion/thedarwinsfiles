@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #26",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/26.png",
+  "dna": "2327d9c063d4a5deb700583b81ec99bfb5331538",
+  "edition": 26,
+  "date": 1706260172818,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Lawyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Glasses"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #8",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/8.png",
+  "dna": "dc07994317e624adcd6d012ade9fc080ea8db462",
+  "edition": 8,
+  "date": 1706262563899,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "CryptoPunk"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "White Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cool Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    }
+  ]
+}

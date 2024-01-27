@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #19",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/19.png",
+  "dna": "25246a979adcdfd3e941ab668ff06247b8495794",
+  "edition": 19,
+  "date": 1706262853841,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Sweater"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Samurai Helmet"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyber VR Glasses"
+    }
+  ]
+}

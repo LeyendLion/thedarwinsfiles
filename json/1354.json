@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #23",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/23.png",
+  "dna": "03c016375e2ef5f62ad63900e1bcfc820a3efc52",
+  "edition": 23,
+  "date": 1706262458205,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Blue shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    }
+  ]
+}

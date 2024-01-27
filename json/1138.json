@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #72",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/72.png",
+  "dna": "bf2cf0086243cd5a100b39561cf890d4e9c1d8d9",
+  "edition": 72,
+  "date": 1706263739213,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Golden Armor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

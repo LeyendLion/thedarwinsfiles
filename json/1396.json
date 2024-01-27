@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #17",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/17.png",
+  "dna": "844e5ae69824ba2918ef1ba6aaf7000cc89239e7",
+  "edition": 17,
+  "date": 1706262040834,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cool Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Monocle"
+    }
+  ]
+}

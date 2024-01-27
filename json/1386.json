@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #7",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/7.png",
+  "dna": "8103cb75d0c69b432663ba4a6f76230f7f53aaab",
+  "edition": 7,
+  "date": 1706262040811,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Lawyer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Short Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Punk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Glasses"
+    }
+  ]
+}

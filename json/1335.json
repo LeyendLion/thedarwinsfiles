@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #4",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/4.png",
+  "dna": "c02e17b3573301857fdc1e5fd1e9250ea1373bd1",
+  "edition": 4,
+  "date": 1706262458164,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safari Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

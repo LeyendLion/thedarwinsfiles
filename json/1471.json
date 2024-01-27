@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #15",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/15.png",
+  "dna": "28ddc9d21de834934e17edd7771f982c3384f05f",
+  "edition": 15,
+  "date": 1706263812580,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Aura"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Sweater"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Glasses"
+    }
+  ]
+}

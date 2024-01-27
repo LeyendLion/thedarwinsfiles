@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #25",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/25.png",
+  "dna": "7290dcdbd8d1840e6217809ad14f0397f04e0f26",
+  "edition": 25,
+  "date": 1706263812599,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Aura"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Tshirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

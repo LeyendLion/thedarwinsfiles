@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #68",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/68.png",
+  "dna": "e346f3d3bf44bd25ad0cda015e774211e1fa5a3e",
+  "edition": 68,
+  "date": 1706263739206,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Caveman Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Monocle"
+    }
+  ]
+}

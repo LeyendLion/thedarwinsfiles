@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #34",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/34.png",
+  "dna": "3453b02e6acd154f9ca244b375889be3a794b61c",
+  "edition": 34,
+  "date": 1706262563948,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Sweater"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thief"
+    }
+  ]
+}

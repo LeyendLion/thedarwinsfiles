@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #24",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/24.png",
+  "dna": "66fbd52fbf2bf4626d37c7f3151460bec0b03197",
+  "edition": 24,
+  "date": 1706263812597,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Aura"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Blue Sport Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safari Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

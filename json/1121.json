@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #55",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/55.png",
+  "dna": "0bac59ec668c4fbdae26da4a881b2e4abdbe4ea1",
+  "edition": 55,
+  "date": 1706263739142,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Suspenders"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Caveman Cool"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Future Glasses"
+    }
+  ]
+}

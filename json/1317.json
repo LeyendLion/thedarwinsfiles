@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #34",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/34.png",
+  "dna": "b0eac6f0ff87d1362d70e2213d9056a6a46054fe",
+  "edition": 34,
+  "date": 1706262853867,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange Cool"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Sport Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Glases"
+    }
+  ]
+}

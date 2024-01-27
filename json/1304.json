@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #21",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/21.png",
+  "dna": "07f58943b6a8eda54d83c2d62f6a5d7b2997f844",
+  "edition": 21,
+  "date": 1706262853845,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "CryptoPunk"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Blue shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cool Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

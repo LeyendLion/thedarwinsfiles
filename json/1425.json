@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #46",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/46.png",
+  "dna": "9233a02f4af9a0f1efeded39382357f486f3057c",
+  "edition": 46,
+  "date": 1706262040888,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Hoodie Down Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

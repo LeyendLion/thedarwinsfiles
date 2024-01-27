@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #2",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/2.png",
+  "dna": "f410c38f05af784f2f41342aa9c469e6ac395922",
+  "edition": 2,
+  "date": 1706260172767,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Low Red"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cool Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

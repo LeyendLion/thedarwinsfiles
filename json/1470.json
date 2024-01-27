@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #14",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/14.png",
+  "dna": "5f9290b32380d7dc96ab2eb354c0df9d000d3ddc",
+  "edition": 14,
+  "date": 1706263812578,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Aura"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Woodcutter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

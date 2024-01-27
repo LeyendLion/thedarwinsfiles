@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #13",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/13.png",
+  "dna": "c91223c1ba52458cd74428b0209f092349f5bd2f",
+  "edition": 13,
+  "date": 1706263812575,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Aura"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Clerk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Short Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black  shades"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #37",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/37.png",
+  "dna": "7b9f120df333951e7add5580c03ec6673462c1f6",
+  "edition": 37,
+  "date": 1706262458231,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Blue shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR Glasses"
+    }
+  ]
+}

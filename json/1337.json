@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #6",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/6.png",
+  "dna": "9aec729144a73b80794aeb2e1eb3dd794c18addc",
+  "edition": 6,
+  "date": 1706262458169,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Student"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

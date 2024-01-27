@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #16",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/16.png",
+  "dna": "06981252764913dfbfa28564560a124bea6723c8",
+  "edition": 16,
+  "date": 1706262853836,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Coat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Normal beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Demon eyes"
+    }
+  ]
+}

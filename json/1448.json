@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #21",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/21.png",
+  "dna": "444a2ddf5f9c7f2ef422f23f3b79868c7e40de62",
+  "edition": 21,
+  "date": 1706260172809,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "White Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Glasses"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #19",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/19.png",
+  "dna": "b7e8e43e2b5348968a09af71a1e89d9447187175",
+  "edition": 19,
+  "date": 1706262040837,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Safari"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cool Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    }
+  ]
+}

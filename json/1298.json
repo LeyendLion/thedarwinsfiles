@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #15",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/15.png",
+  "dna": "0f4603babd42dac9158f21f0bf6ff06b0c4f0950",
+  "edition": 15,
+  "date": 1706262853834,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Low Red"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Monocle"
+    }
+  ]
+}

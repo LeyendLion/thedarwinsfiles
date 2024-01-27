@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #6",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/6.png",
+  "dna": "2d04bd8da9d68b7b609cf0b2ba4750704961c71b",
+  "edition": 6,
+  "date": 1706260172777,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eth Green"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Blue Sport Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Caveman Cool"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Future Glasses"
+    }
+  ]
+}

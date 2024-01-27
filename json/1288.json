@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #5",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/5.png",
+  "dna": "9f8b59960b855f80c27b17440d9215b2cada2c5d",
+  "edition": 5,
+  "date": 1706262853812,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Red Puffer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Short Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Monocle"
+    }
+  ]
+}

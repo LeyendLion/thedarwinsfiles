@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #57",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/57.png",
+  "dna": "6d9c1357fb40fda22a2115bdf79810b3988279cc",
+  "edition": 57,
+  "date": 1706263739147,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Sport Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Loose Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Demon eyes"
+    }
+  ]
+}

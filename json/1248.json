@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #13",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/13.png",
+  "dna": "e3d56712f392c7398291a6ed628ac641326e4937",
+  "edition": 13,
+  "date": 1706262563910,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Coat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Demon eyes"
+    }
+  ]
+}

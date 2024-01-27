@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #15",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/15.png",
+  "dna": "f920fdc4d0e46c8ae3ade21590f5bee490cbe51c",
+  "edition": 15,
+  "date": 1706262040830,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cave"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Red Puffer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Caveman Cool"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

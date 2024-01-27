@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #48",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/48.png",
+  "dna": "d4072d010bfcd95f185e678ffd34177b6e27cab1",
+  "edition": 48,
+  "date": 1706262853893,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cave"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Saber Skin"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Future Glasses"
+    }
+  ]
+}

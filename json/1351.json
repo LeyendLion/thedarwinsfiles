@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #20",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/20.png",
+  "dna": "66e3db98f5f6942a29565794595aae3edf729b11",
+  "edition": 20,
+  "date": 1706262458199,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Blue Sport Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Short Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    }
+  ]
+}

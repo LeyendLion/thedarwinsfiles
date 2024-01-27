@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #29",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/29.png",
+  "dna": "76d0e0b7f1e97c2f03b7a06adbf62d56ab4ca468",
+  "edition": 29,
+  "date": 1706262458216,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safari Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Glasses"
+    }
+  ]
+}

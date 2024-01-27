@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #7",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/7.png",
+  "dna": "b867ea3931da32d5164620b4647f918c38686739",
+  "edition": 7,
+  "date": 1706262458171,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Short Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Glasses"
+    }
+  ]
+}

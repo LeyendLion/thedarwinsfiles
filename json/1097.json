@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #31",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/31.png",
+  "dna": "8614d573632987a952a6af9bb20f0321f77c418e",
+  "edition": 31,
+  "date": 1706263739055,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Coat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro braids"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Future Glasses"
+    }
+  ]
+}

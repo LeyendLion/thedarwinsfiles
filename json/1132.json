@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #66",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/66.png",
+  "dna": "39db1b035f575ff7478096c2e1114269aa07e2f5",
+  "edition": 66,
+  "date": 1706263739203,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Clerk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

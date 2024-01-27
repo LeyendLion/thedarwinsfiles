@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #22",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/22.png",
+  "dna": "74d3be9d64ab6942a9c9b8595235c865b5b45b01",
+  "edition": 22,
+  "date": 1706262458203,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Ape Skin"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro braids"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

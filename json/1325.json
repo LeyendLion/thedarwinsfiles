@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #42",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/42.png",
+  "dna": "aaf3c257353ec4da7c32f7d42427cfaeaa769800",
+  "edition": 42,
+  "date": 1706262853881,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Basketball shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Straight Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glasses"
+    }
+  ]
+}

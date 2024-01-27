@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #12",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/12.png",
+  "dna": "9592ec047ff5e97fb7c58caaaa2f9db61de5248a",
+  "edition": 12,
+  "date": 1706263739015,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cool Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Demon eyes"
+    }
+  ]
+}

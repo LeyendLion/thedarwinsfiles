@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #8",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/8.png",
+  "dna": "d87d2c3026543af119c1ef630b8d3a44626f302f",
+  "edition": 8,
+  "date": 1706263739005,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Suspenders"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Glasses"
+    }
+  ]
+}

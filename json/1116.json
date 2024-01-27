@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #50",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/50.png",
+  "dna": "ac93d63f84a78fd712aeb2ed4dad36aabcd4c7e0",
+  "edition": 50,
+  "date": 1706263739132,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Future Glasses"
+    }
+  ]
+}

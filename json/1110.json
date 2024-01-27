@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #44",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/44.png",
+  "dna": "b205ab36b0c176c6d94049947ea434a3bca29451",
+  "edition": 44,
+  "date": 1706263739120,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Student"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Demon eyes"
+    }
+  ]
+}

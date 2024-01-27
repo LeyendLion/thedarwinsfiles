@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #32",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/32.png",
+  "dna": "ed32c93e7d9104254cae5a845355443a07e302ad",
+  "edition": 32,
+  "date": 1706263739058,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Sweater"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cool Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

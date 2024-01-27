@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #42",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/42.png",
+  "dna": "0b5b31739f9dfdeed90c23606da4d565a9b3535e",
+  "edition": 42,
+  "date": 1706263739092,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Mercenary"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glasses"
+    }
+  ]
+}

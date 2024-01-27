@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #37",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/37.png",
+  "dna": "5fcd472ab02ce063c2ab837107867698b93912a5",
+  "edition": 37,
+  "date": 1706263739067,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "FBI"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Future Glasses"
+    }
+  ]
+}

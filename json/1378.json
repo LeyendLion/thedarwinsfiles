@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #47",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/47.png",
+  "dna": "33b63743a589b8feaec38e86c9fbf89276ecd87f",
+  "edition": 47,
+  "date": 1706262458250,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Storm"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Golden Armor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}

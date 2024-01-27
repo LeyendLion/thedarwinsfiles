@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #20",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/20.png",
+  "dna": "20a163a8a193def2ba180c1a5ae87bbf7fbe57c0",
+  "edition": 20,
+  "date": 1706263739032,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Student"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Chinstrap"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Punk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy Eyes"
+    }
+  ]
+}

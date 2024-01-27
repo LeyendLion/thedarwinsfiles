@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #52",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/52.png",
+  "dna": "aa3d6544681e37f794fd99d2d5d3c56dbd4a749f",
+  "edition": 52,
+  "date": 1706263739137,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "None"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Basketball shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Monocle"
+    }
+  ]
+}

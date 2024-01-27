@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #27",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/27.png",
+  "dna": "eefbedcf420af8d796a09c47504ff2f54e4bd6da",
+  "edition": 27,
+  "date": 1706262458212,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "CryptoPunk"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Sweater"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Short Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Straight Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Future Glasses"
+    }
+  ]
+}

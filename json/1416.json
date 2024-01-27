@@ -1,0 +1,38 @@
+{
+  "name": "The Darwins #37",
+  "description": "",
+  "image": "ipfs://NewUriToReplace/37.png",
+  "dna": "2568d385ef04e3f34615e246dde7a2d967ed381a",
+  "edition": 37,
+  "date": 1706262040871,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "CryptoPunk"
+    },
+    {
+      "trait_type": "SkinTone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Basketball shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Not much beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Caveman Cool"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black  shades"
+    }
+  ]
+}
